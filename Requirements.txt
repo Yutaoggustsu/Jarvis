@@ -1,5 +1,5 @@
-python 
-openai 
-pyttsx3 
-webbrowser
-speech_recognition
+
+pip install openai 
+pip installpyttsx3 
+pip  install webbrowser
+pip install SpeechRecognition
